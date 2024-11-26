@@ -1,2 +1,1 @@
-"# studentmaster" 
-"# student-manager-2" 
+android student-manager-2
